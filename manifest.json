@@ -1,6 +1,6 @@
 {
 	"id": "better-quote",
-	"name": "better-quote",
+	"name": "Better Quote",
 	"version": "0.1.0",
 	"minAppVersion": "1.5.0",
 	"description": "Mirror blocks between notes with mirror-to and mirror-from commands.",
